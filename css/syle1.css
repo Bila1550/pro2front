@@ -1,0 +1,27 @@
+body{
+    background-attachment: fixed;
+    background-color: rgb(234, 229, 243);
+
+
+}
+h1{
+    width: 200;
+    height: 40;
+    text-align: center;
+    margin: auto;
+
+
+
+}
+h1:hover {
+    color:#fff;
+    background-color: #37235c;
+  
+}
+.line{
+    width: 90px;
+    height: 4px;
+    background-color: #593796;
+    margin: auto;
+    margin-top: -1px;
+}
